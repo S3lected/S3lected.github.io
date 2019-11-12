@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  S3lected
 
 # Build settings
-theme: texture
+# theme: texture
 remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
