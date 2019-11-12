@@ -29,6 +29,7 @@ github_username:  S3lected
 
 # Build settings
 theme: texture
+remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
 
