@@ -10,7 +10,6 @@
 
 // TAM BD Agent Shape: To define own shapes with behavior, extend MxShape
 
-alert("Test")
 
 function mxShapeTAMVertexAgent(bounds, fill, stroke, strokewidth) {
     mxShape.call(this);
